@@ -7,7 +7,7 @@ This is a web application built with React and TypeScript that uses the public P
 Pokémon Cards List Screen: Displays a list of Pokémon cards with their images and names. Supports infinite scrolling to load more cards.
 Pokémon Card Detail Screen: Displays detailed information for a selected Pokémon card, including type, HP, and abilities. Allows users to save or remove cards to/from local storage.
 
-#H2 Technologies Used
+## Technologies Used
 
 React
 TypeScript
