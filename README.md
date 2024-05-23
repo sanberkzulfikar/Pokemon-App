@@ -47,3 +47,9 @@ Get Pokémon Card Details
 
 - Endpoint: https://api.pokemontcg.io/v2/cards/{id}
 - Method: GET
+
+# Installation
+
+- Clone repo
+- npm install
+- npm start
