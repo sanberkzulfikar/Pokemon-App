@@ -1,4 +1,4 @@
-#H1 ClickRising Pokémon App
+# ClickRising Pokémon App
 
 Live deploy link: [https://clickrising-pokemon-sanberk.vercel.app/]([URL](https://clickrising-pokemon-sanberk.vercel.app/))
 
