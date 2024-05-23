@@ -5,15 +5,17 @@
 <h2 align="center">ClickRising Pokémon TCG App</h2>
 
 <p align="center">
-  <a href="https://github.com/your-repo">
+  <a href="https://github.com/sanberkzulfikar/ClickRising-Pokemon-App">
     <img src="https://img.shields.io/badge/build-passing-brightgreen" alt="Build Status">
   </a>
-  <a href="https://github.com/your-repo">
+  <a href="https://github.com/sanberkzulfikar/ClickRising-Pokemon-App">
     <img src="https://img.shields.io/badge/version-1.0.0-blue" alt="Version">
   </a>
 </p>
 
 ---
+
+Live Deploy Link: https://clickrising-pokemon-sanberk.vercel.app/
 
 ## Features
 
@@ -28,3 +30,20 @@
 - React Router
 - Material-UI
 - Axios
+- Zustand
+- Jest
+
+## API Integration
+The project leverages the Pokémon TCG API to fetch data. Below are the main endpoints used:
+
+Get Pokémon Cards List
+- Endpoint: https://api.pokemontcg.io/v2/cards
+- Method: GET
+- Parameters: page, pageSize
+- page: The page number to retrieve.
+- pageSize: The number of cards to retrieve per page.
+
+Get Pokémon Card Details
+
+- Endpoint: https://api.pokemontcg.io/v2/cards/{id}
+- Method: GET
