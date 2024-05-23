@@ -9,11 +9,11 @@ Pokémon Card Detail Screen: Displays detailed information for a selected Pokém
 
 ## Technologies Used
 
-React
-TypeScript
-React Query
-React Router
-Material-UI
-Axios
-Zustand
-Jest
+-React
+-TypeScript
+-React Query
+-React Router
+-Material-UI
+-Axios
+-Zustand
+-Jest
