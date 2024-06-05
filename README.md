@@ -5,17 +5,17 @@
 <h2 align="center">ClickRising Pokémon TCG App</h2>
 
 <p align="center">
-  <a href="https://github.com/sanberkzulfikar/ClickRising-Pokemon-App">
+  <a href="https://github.com/sanberkzulfikar/Pokemon-App">
     <img src="https://img.shields.io/badge/build-passing-brightgreen" alt="Build Status">
   </a>
-  <a href="https://github.com/sanberkzulfikar/ClickRising-Pokemon-App">
+  <a href="https://github.com/sanberkzulfikar/Pokemon-App">
     <img src="https://img.shields.io/badge/version-1.0.0-blue" alt="Version">
   </a>
 </p>
 
 ---
 
-Live Deploy Link: https://clickrising-pokemon-sanberk.vercel.app/
+Live Deploy Link: https://github.com/sanberkzulfikar/Pokemon-App
 
 ## Features
 
