@@ -11,7 +11,7 @@ const CardListPage: React.FC = () => (
         margin: "100px",
       }}
     >
-      ClickRising Pokémon Cards
+      Pokémon Cards
     </h1>
     <CardList />
   </div>
