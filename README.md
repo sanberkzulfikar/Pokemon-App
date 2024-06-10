@@ -2,7 +2,7 @@
   <img src="https://cdn.wallpaper.tn/large/Pokemon-Pikachu-Wallpapers-4K-171156.jpg" alt="Pokemon" width="300">
 </p>
 
-<h2 align="center">ClickRising Pokémon TCG App</h2>
+<h2 align="center">Pokémon TCG App</h2>
 
 <p align="center">
   <a href="https://github.com/sanberkzulfikar/Pokemon-App">
