@@ -15,7 +15,7 @@
 
 ---
 
-Live Deploy Link: https://github.com/sanberkzulfikar/Pokemon-App
+Live Deploy Link: https://sanberk-pokemon.vercel.app/
 
 ## Features
 
