@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://image-2.uhdpaper.com/wallpaper/charizard-pokemon-4k-wallpaper-uhdpaper.com-100@2@a.jpg" alt="Pokemon" width="300">
+  <img src="../public/charizard-pokemon-4k-wallpaper-uhdpaper.com-100@2@a.jpg" alt="Pokemon" width="300">
 </p>
 
 <h2 align="center">Pokémon TCG App</h2>
