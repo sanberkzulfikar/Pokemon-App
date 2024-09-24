@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://en.wikipedia.org/wiki/Pok%C3%A9mon#/media/File:International_Pok%C3%A9mon_logo.svg" alt="Pokemon" width="300">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/International_Pok%C3%A9mon_logo.svg" alt="Pokemon" width="300">
 </p>
 
 <h2 align="center">Pokémon TCG App</h2>
